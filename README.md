@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me at ***shwetamane1397@gmail.com***
 
-- Check out my ***[portfolio](https://shwetamane13.github.io/Portfolio/index.html)***
+<!-- - Check out my ***[portfolio](https://shwetamane13.github.io/Portfolio/index.html)*** -->
 
 ## 🚀 Languages and Tools:
 
