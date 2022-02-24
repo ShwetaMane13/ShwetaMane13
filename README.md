@@ -1,5 +1,5 @@
 
-<div align="center" ><img src="https://i.imgur.com/5GUAAls.png"/></div>
+<div align="center" ><img src="https://i.imgur.com/wHd6GgG.png"/></div>
 
 <h1 align="center">Hi there 👋, I'm Shweta</h1>
 <h3 align="center">I am a full stack web developer.</h3>
