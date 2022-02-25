@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available here: ***[portfolio](https://shwetamane13.github.io/my-portfolio/)*** 
+- 👨‍💻 All of my projects are available here: [Portfolio](https://shwetamane13.github.io/my-portfolio/)
 
-- Checkout my work at ***[My Github Repositories](https://github.com/ShwetaMane13?tab=repositories)***
+- Checkout my work at [My Github Repositories](https://github.com/ShwetaMane13?tab=repositories)
 
-- 📫 How to reach me **shwetamane1397@gmail.com**
+- 📫 Reach out to me at **shwetamane1397@gmail.com**
 
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1pryB4OVnY9s_jh0fBb_0BDre-OXiEkeP/view?usp=sharing)
 
