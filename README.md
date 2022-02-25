@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shwetamane1397@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q6exIH0bGK8-YqXkEK92mZJN0e9TfM5j/view?usp=sharing](https://drive.google.com/file/d/1q6exIH0bGK8-YqXkEK92mZJN0e9TfM5j/view?usp=sharing)
+- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1pryB4OVnY9s_jh0fBb_0BDre-OXiEkeP/view?usp=sharing)
 
 - ⚡ Fun fact **I play the guitar and love watching sunsets!**
 
