@@ -10,7 +10,7 @@
 
 - Checkout my work at [My Github Repositories](https://github.com/ShwetaMane13?tab=repositories)
 
-- 📫 Reach out to me at **shwetamane1397@gmail.com**
+- 📫 Reach out to me at **shwetam9769@gmail.com**
 
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1DQJvDo3phpB0x2FV7NImamst_5i7bV66/view?usp=sharing)
 
