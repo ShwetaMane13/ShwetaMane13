@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Shweta</h1>
 <h3 align="center">I am a full stack web developer.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m a **MERN stack** developer
 
 - 👨‍💻 All of my projects are available here: [Portfolio](https://shwetamane13.github.io/my-portfolio/)
 
