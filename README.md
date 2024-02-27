@@ -12,7 +12,7 @@
 
 - 📫 Reach out to me at **shwetam9769@gmail.com**
 
-- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1DQJvDo3phpB0x2FV7NImamst_5i7bV66/view?usp=sharing)
+- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1PisdgdqfQLjNdS7xiJGaodUXa1fv-BcI/view?usp=sharing)
 
 - ⚡ Fun fact **I play the guitar and love watching sunsets!**
 
