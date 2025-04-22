@@ -47,10 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shwetamane13&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShwetaMane13&theme=react-dark&bg_color=ffffff00&color=000000&line=00bfff&point=000000&area=true&hide_border=true" width="95%" />
-</div>
-
 ---
 
 ### 🌱 A Little More About Me
