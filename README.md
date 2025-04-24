@@ -16,7 +16,7 @@
 ### 🔗 Let’s Connect
 
 - 🖥 Portfolio: [shwetamane13.github.io/my-portfolio](https://shwetamane13.github.io/my-portfolio/)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1PisdgdqfQLjNdS7xiJGaodUXa1fv-BcI/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1FQIhD56S0dtrsRqSjRIESqolMBePj1EC/view?usp=sharing)
 - 💼 LinkedIn: [linkedin.com/in/shwetamane13](https://www.linkedin.com/in/shwetamane13/)
 - 💻 GitHub: [github.com/ShwetaMane13](https://github.com/ShwetaMane13)
 - 📬 Email: **shwetam9769@gmail.com**
