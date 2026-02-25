@@ -51,7 +51,6 @@
 
 - 👩🏻‍💻 Ex: **Tricog Health** and **NewOwl AI**
 - 🧭 On a mission to create clean, user-first experiences
-- 🎵 Guitar, sunsets, and deep tech convos are my recharge points
 - 🛠 I’m always learning, iterating, and pushing toward excellence
 
 ---
