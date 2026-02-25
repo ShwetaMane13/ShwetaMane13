@@ -15,7 +15,7 @@
 
 ### 🔗 Let’s Connect
 
-- 🖥 Portfolio: [shwetamane13.github.io/my-portfolio](https://shwetamane13.github.io/my-portfolio/)
+- 🖥 Portfolio: [shwetamane13.github.io/my-portfolio]([https://shwetamane13.github.io/my-portfolio/](https://shweta-mane-portfolio.vercel.app/))
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1FQIhD56S0dtrsRqSjRIESqolMBePj1EC/view?usp=sharing)
 - 💼 LinkedIn: [linkedin.com/in/shwetamane13](https://www.linkedin.com/in/shwetamane13/)
 - 💻 GitHub: [github.com/ShwetaMane13](https://github.com/ShwetaMane13)
@@ -33,9 +33,7 @@
 
 ### 📌 Currently Building
 
-- 🧱 A **Pomodoro + To-Do productivity app** with token authentication  
 - 🧩 A **Kanban board** to track tasks and boost workflow  
-- ⚙️ A **BullMQ-based log processor microservice** with Docker + Supabase  
 - 🎯 Practicing DSA and completing my [30 Days of JavaScript](https://github.com/ShwetaMane13/30-days-of-JavaScript) thread
 
 ---
